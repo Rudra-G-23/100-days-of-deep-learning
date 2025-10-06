@@ -1,11 +1,12 @@
 site_name: 100 Days of Deep Learning
 site_author: Rudra Prasad Bhuyan
 site_description: |
-  All the nots, code, usefull sources i collected thourght out this 
-  journey i will share with you.
-#site_url: https://example.com
+  A comprehensive guide to mastering deep learning, 
+  featuring hands-on projects, tutorials, and resources 
+  for both beginners and advanced learners.
+site_url: https://rudra-g-23.github.io/100-days-of-deep-learning/
 repo_url: https://github.com/Rudra-G-23/100-days-of-deep-learning
-repo_name: Rudra-G-23/100-days-of-deep-learning
+repo_name: 100-days-of-deep-learning
 edit_uri: edit/main/docs/
 
 copyright: Copyright &copy; 2025 Rudra Prasad Bhuyan. All rights reserved.
@@ -66,10 +67,10 @@ theme:
 plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  #- git-revision-date-localized:
-      #enable_creation_date: true
-      #fallback_to_build_date: true
-      #enable_git_follow: false
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+      enable_git_follow: false
 
 # Extensions
 markdown_extensions:
@@ -172,11 +173,11 @@ nav:
       - Problem with Perceptron: perceptron/problem-with-perceptron.md
 
   - MLP:
-      - MLP Intuition: mlp/mlp-intuition.md
       - MLP Notation: mlp/mlp-notation.md
+      - MLP Intuition: mlp/mlp-intuition.md
       - Forward Propagation: mlp/forward-propagation.md
 
-  - Backpropagation:
-      - The What: backpropagation/the-what.md
-      - The Why: backpropagation/the-why.md
-      - The How: backpropagation/the-how.md
+      - Backpropagation:
+          - The What: backpropagation/the-what.md
+          - The Why: backpropagation/the-why.md
+          - The How: backpropagation/the-how.md
