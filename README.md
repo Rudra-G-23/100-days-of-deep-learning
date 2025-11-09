@@ -10,7 +10,9 @@
 
 ---
 
-## Deep Learning
+## ANN
+
+### History
 
 - Roadmap I follow: 
   - https://youtu.be/XIcfwJUlXd0?si=Z4j3m91THVgmr_b2
@@ -20,6 +22,9 @@
   - https://youtu.be/fHF22Wxuyw4?si=RL3BryewKpOVPiDS
 - Types of Neural Networks? History	
   - https://youtu.be/fne_UE7hDn0?si=GxGYBx47POr6plGX
+
+### Perceptron
+
 - What is Perceptron? Perceptron vs neuron	
   - https://youtu.be/X7iIKPoZ0Sw?si=w0wSbRXjGaS6Oqf7
 - Perceptron Trick 	
@@ -32,6 +37,8 @@
   - https://youtu.be/H0_3SJh4Rqs?si=34wkP3KYnCfkxBzW
 - MLP Intuition	
   - https://youtu.be/qw7wFGgNCSU?si=fs8KQ_nHFQGCIHjE
+
+### Projects & Forward & Backward Propagation
 - Forward Propagation	
   - https://youtu.be/7MuiScUkboE?si=WlsDN-IhC1QOp1Is
 - Project: Customer Churn Prediction using ANN 
@@ -48,6 +55,11 @@
   - https://youtu.be/6xO-x8y0YSY?si=mOPXxbvR5xLRKtXP
 - Backpropagation in DL | The Why | P3	
   - https://youtu.be/6xO-x8y0YSY?si=ThNuWXb1IxEPRTk9
+
+## Improving a Neural Network
+
+### Gradient Descent
+
 - MLP Memoization	
   - https://youtu.be/rW0eeTXas4k?si=2OV_KzeBN0ORqx8e
 - Gradient Descent In NN & It types	
@@ -56,6 +68,9 @@
   - https://youtu.be/uCrevbBh0zM?si=_r_gKiNfdydCg0lm
 - How to improve the performance of NN	
   - https://youtu.be/Ue_6n1yT_R8?si=Ezyz2enfaQailWGa
+
+### Dropout &  Early Stopping
+
 - Early Stopping 	
   - https://youtu.be/Ygvskt5HadI?si=O6hvzLvt69w-qaL_
 - Simple Learning Rate Scheduler	
@@ -67,6 +82,9 @@
 - Drop Out Layer  Code example Part-02	
   - https://youtu.be/tgIx04ML7-Y?si=o1NpptbdoPbE078C
 - Dropout in Classification	
+
+### Regularization & Activation Functions
+
 - Regularization L2 , L1	
   - https://youtu.be/4xRonrhtkzc?si=KDJXBPrT1ahbC5y9
 - Activation Function 	
@@ -80,6 +98,9 @@
   - https://youtu.be/nwVOSgcrbQI?si=HWfAPuFFb2PccqVe
 - Batch Normalization	
   - https://youtu.be/2AscwXePInA?si=uQMVQB_AijsI12JH
+
+### Optimizers
+
 - Optimizers Part-01	
   - https://youtu.be/iCTTnQJn50E?si=PAjyR17FKeZTzMUl
 - Exponentially Weighted Moving Avg	
@@ -96,17 +117,36 @@
   - https://youtu.be/N5AynalXD9g?si=8xQVt4-Flk_iLo_C
 - Keras Tuner | Hyperparameter Tuning a NN	
   - https://youtu.be/oYnyNLj8RMA?si=h5tidHPF0Zto39iK
+
+## CNN
+
+### Basic
+
 - What is CNN 	
   - https://youtu.be/hDVFXf74P-U?si=8Ijc2e60PTcczkfC
-CNN vs Visual Cortex	https://youtu.be/aslTGS9ef98?si=vZL_a9o3oxDdKGPw
-Convolution Operation	https://youtu.be/cgJx3GvQ5y8?si=_XF-yLjVJY6h-K39
-Padding & Strides in CNN	https://youtu.be/btWE6SsdDZA?si=dyDFsa-_1Mvuk7Jx
-Pooling Opration	https://youtu.be/DwmGefkowCU?si=21UnIyoDAYLXcA3n
-LeNet -5 Architecture	https://youtu.be/ewsvsJQOuTI?si=o3is2ttG9N73t9Cw
-Comparing CNN vs ANN	https://youtu.be/niE5DRKvD_E?si=3XCLvs-fGJlSYq0F
-Backpropagation in CNN | Part-01	https://youtu.be/RvCCFttGFMY?si=fLGtiuuItjIr1KpK
-Backpropagation in CNN | Part-02	https://youtu.be/OoSDzOodY3Y?si=tr2DtZ4HSftnmMtG
-Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBXxWioERqE
+- CNN vs Visual Cortex	
+  - https://youtu.be/aslTGS9ef98?si=vZL_a9o3oxDdKGPw
+- Convolution Operation	
+  - https://youtu.be/cgJx3GvQ5y8?si=_XF-yLjVJY6h-K39
+- Padding & Strides in CNN	
+  - https://youtu.be/btWE6SsdDZA?si=dyDFsa-_1Mvuk7Jx
+- Pooling Operation	
+  - https://youtu.be/DwmGefkowCU?si=21UnIyoDAYLXcA3n
+- LeNet -5 Architecture	
+  - https://youtu.be/ewsvsJQOuTI?si=o3is2ttG9N73t9Cw
+- Comparing CNN vs ANN	
+  - https://youtu.be/niE5DRKvD_E?si=3XCLvs-fGJlSYq0F
+
+### Backpropagation
+
+- Backpropagation in CNN | Part-01	
+  - https://youtu.be/RvCCFttGFMY?si=fLGtiuuItjIr1KpK
+- Backpropagation in CNN | Part-02	
+  - https://youtu.be/OoSDzOodY3Y?si=tr2DtZ4HSftnmMtG
+- Cat vs Dog Image Classification project	
+  - https://youtu.be/0K4J_PTgysc?si=TeqjtFBXxWioERqE
+
+### Augmentation, Pretrained Models, Filters, Transfer Learning
 - Data Augmentation in CNN	
   - https://youtu.be/sM2C-SsREgM?si=8GrmYFBAhmPKH4gK
 - Pretrained Models in CNN	
@@ -117,6 +157,11 @@ Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBX
   - https://youtu.be/WWcgHjuKVqA?si=2uLpQpIEAxylTTx5
 - Keras Functional Model	
   - https://youtu.be/OvQQP1QVru8?si=GkI3nwkKJ-sl9Cg8
+
+## RNN
+
+### Basic
+
 - Why RNNs are needed
   - https://youtu.be/4KpRP-YUw6c?si=mHsGiaQNiJnsecDF
 - RNN Forward Propagation	
@@ -125,10 +170,16 @@ Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBX
   - https://youtu.be/JgnbwKnHMZQ?si=A6TyIDJc2NPkMKHf
 - Types of RNN	
   - https://youtu.be/TkOBxzhIySg?si=m3i09GuWZsvABkI_
+
+### Backpropagation & Problems
+
 - Backpropagation works in RNN	
   - https://youtu.be/OvCz1acvt-k?si=Q6htc0maasasEyKe
 - Problems with RNN	
   - https://youtu.be/AWHSZzp96kM?si=sQvDx5uNMQi2J8EH
+
+## LSTM, GRU & Bidirectional
+
 - LSTM | Part 01	
   - https://youtu.be/z7IPBg6MyrU?si=lihuxciZ3AsbrYrC
 - LSTM Architecture	
@@ -141,8 +192,16 @@ Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBX
   - https://youtu.be/mlDkTrlLaio?si=7vAejB0nR2neTrur
 - Bidirectional RNN, BiLSTM, BiGRU	
   - https://youtu.be/k2NSm3MNdYg?si=hwkdbNgQu4uF4FR0
+
+## TRANSFORMERS
+
+### Epic History of LLM's
+
 - The Epic History of LLMs	
   - https://youtu.be/8fX3rOjTloc?si=anM12rYLFVIYXEXU
+
+### Encoder & Decoder
+
 - Encoder Decoder	
   - https://youtu.be/KiL74WsgxoA?si=cdNCfybKFd3AssZ5
 - Attention Mechanism	
@@ -151,6 +210,10 @@ Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBX
   - https://youtu.be/0hZT4_fHfNQ?si=MuXCkIR2Qxqtn_D3
 - Intro to Transformers | P01
   - https://youtu.be/BjRVS2wTtcA?si=W547Gw5zeOR7GSPm
+
+
+### Self Attention
+
 - What is Self Attention | P02	
   - https://youtu.be/XnGGmvpDLA0?si=1eCFc7YkSpZQ3YDm
 - Self Attention in Transformers | P03
@@ -159,6 +222,9 @@ Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBX
   - https://youtu.be/r7mAt0iVqwo?si=kLHbxqBrYYtAGZmU
 - Self Attention Geometric Intuition 	
   - https://youtu.be/5ZgGuujZSbs?si=jJ4BkJRVZ9hMzpeX
+
+### Multi Head Attention
+
 - Why is Self Attention called “Self” ?	
   - https://youtu.be/o4ZVA0TuDRg?si=neLIsFQp_Lwyffqh
 - Multi Head Attention	
@@ -167,6 +233,8 @@ Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBX
   - https://youtu.be/GeoQBNNqIbM?si=EBJ1E-1Vug3BHMtu
 - Layer Normalization in Transformers	
   - https://youtu.be/qti0QPdaelg?si=AJEpWjWPmmuQ-zYP
+
+### Transformers Architecture
 - Transformers Architecture	
   - https://youtu.be/Vs87qcdm8l0?si=YV5PtZLuDyrN_NKU
 - Masked Self Attention	
@@ -177,9 +245,6 @@ Cat vs Dog Image Classification project	https://youtu.be/0K4J_PTgysc?si=TeqjtFBX
   - https://youtu.be/DI2_hrAulYo?si=wX1HisWZusn3kEm6
 - Transformer Inference
   - https://youtu.be/FtsMOzlwxws?si=s-k6BfZS59m7-TCu
-
-
-
 
 
 ---
