@@ -11,6 +11,7 @@
 ---
 
 ## ANN
+![img](pic/ann.png)
 
 ### History
 
@@ -27,12 +28,16 @@
 
 - What is Perceptron? Perceptron vs neuron	
   - https://youtu.be/X7iIKPoZ0Sw?si=w0wSbRXjGaS6Oqf7
+  - https://www.kaggle.com/code/rudraprasadbhuyan/single-perceptron-demo
 - Perceptron Trick 	
   - https://youtu.be/Lu2bruOHN6g?si=dR8pBDMZvNBNeAi0
+  - https://www.kaggle.com/code/rudraprasadbhuyan/perceptron-trick-scratch
 - Perceptron Loss function	
   - https://youtu.be/2_gCL5RAkHc?si=aX1ucWAW_LV99SuN
+  - https://www.kaggle.com/code/rudraprasadbhuyan/perceptron-with-loss-function-scratch
 - Problem with Perceptron	
   - https://youtu.be/Jp44b27VnOg?si=SxJFfA93OWMCrE6z
+  - https://www.kaggle.com/code/rudraprasadbhuyan/perceptron-can-t-learn-xor-function
 - MLP Notation	
   - https://youtu.be/H0_3SJh4Rqs?si=34wkP3KYnCfkxBzW
 - MLP Intuition	
@@ -43,12 +48,16 @@
   - https://youtu.be/7MuiScUkboE?si=WlsDN-IhC1QOp1Is
 - Project: Customer Churn Prediction using ANN 
   - https://youtu.be/9wmImImmgcI?si=4jfbOMwc1XFOPiic
+  - https://www.kaggle.com/code/rudraprasadbhuyan/starter-project-1-customer-churn-prediction
 - Project: Handwritten digit classification using ANN
   - https://youtu.be/3xPT2Pk0Jds?si=kM440rt9qfsmnETh
+  - https://www.kaggle.com/code/rudraprasadbhuyan/starter-project-2-handwritten-digit-classification
 - Project: Graduate Admission Prediction using ANN
   - https://youtu.be/RCmiPBiA4qg?si=wRrUUwZ9gc2XkN6h
+  - https://www.kaggle.com/code/rudraprasadbhuyan/starter-project-3-graduate-admission-prediction
 - Loss Functions in DL	
   - https://youtu.be/gb5nm_3jBIo?si=JH2zZAYRFbMAUcJS
+  - https://www.kaggle.com/code/rudraprasadbhuyan/perceptron-with-loss-function-scratch
 - Backpropagation In DL | The What | P1	
   - https://youtu.be/6M1wWQmcUjQ?si=YblqCS67uLklSXN1
 - backpropagation in DL | The How | P2	
@@ -62,10 +71,12 @@
 
 - MLP Memoization	
   - https://youtu.be/rW0eeTXas4k?si=2OV_KzeBN0ORqx8e
+  - https://www.kaggle.com/code/rudraprasadbhuyan/mlp-memoization-in-deep-learning
 - Gradient Descent In NN & It types	
   - https://youtu.be/7z6yXpYk7sw?si=nIWhBgwMA9DRwIGx
 - Vanishing Gradient Problem in ANN	
   - https://youtu.be/uCrevbBh0zM?si=_r_gKiNfdydCg0lm
+  - https://www.kaggle.com/code/rudraprasadbhuyan/vanishing-exploding-gradients-problem
 - How to improve the performance of NN	
   - https://youtu.be/Ue_6n1yT_R8?si=Ezyz2enfaQailWGa
 
@@ -74,14 +85,19 @@
 - Early Stopping 	
   - https://youtu.be/Ygvskt5HadI?si=O6hvzLvt69w-qaL_
 - Simple Learning Rate Scheduler	
+  - https://www.kaggle.com/code/rudraprasadbhuyan/simple-learning-rate-scheduler
 - Learning Rate Scheduler in Keras	
+  - https://www.kaggle.com/code/rudraprasadbhuyan/learning-rate-scheduler-keras
 - Feature Scaling in NN	
   - https://youtu.be/mzRO0cVppQ0?si=SiSM29gQzkuQNYba
 - Drop Out Layer Part-01	
   - https://youtu.be/gyTlcHVeBjM?si=9CuvIV0H8SEUqmDh
+  - https://www.kaggle.com/code/rudraprasadbhuyan/dropout-in-regression
 - Drop Out Layer  Code example Part-02	
   - https://youtu.be/tgIx04ML7-Y?si=o1NpptbdoPbE078C
+  - https://www.kaggle.com/code/rudraprasadbhuyan/dropouts-in-classification
 - Dropout in Classification	
+  - https://www.kaggle.com/code/rudraprasadbhuyan/dropouts-in-classification
 
 ### Regularization & Activation Functions
 
@@ -93,11 +109,14 @@
   - https://youtu.be/2OwWs7Hzr9g?si=hyvJZdRrSm-C8tYd
 - Weight Initialization | What not to do | Part-01	
   - https://youtu.be/2MSY0HwH5Ss?si=T1ZNICMrsldCM9Xp
+  - https://www.kaggle.com/code/rudraprasadbhuyan/zero-initialization-with-sigmoid
 - Zero initialization With ReLU	
+  - https://www.kaggle.com/code/rudraprasadbhuyan/zero-initialization-with-relu
 - Weight Initialization Xavier/Gorat and He | Part-02	
   - https://youtu.be/nwVOSgcrbQI?si=HWfAPuFFb2PccqVe
 - Batch Normalization	
   - https://youtu.be/2AscwXePInA?si=uQMVQB_AijsI12JH
+  - https://www.kaggle.com/code/rudraprasadbhuyan/batch-normalization-in-keras
 
 ### Optimizers
 
@@ -118,7 +137,10 @@
 - Keras Tuner | Hyperparameter Tuning a NN	
   - https://youtu.be/oYnyNLj8RMA?si=h5tidHPF0Zto39iK
 
+---
+
 ## CNN
+![img](pic/cnn.png)
 
 ### Basic
 
@@ -158,7 +180,10 @@
 - Keras Functional Model	
   - https://youtu.be/OvQQP1QVru8?si=GkI3nwkKJ-sl9Cg8
 
+---
+
 ## RNN
+![img](pic/rnn.png)
 
 ### Basic
 
@@ -193,7 +218,10 @@
 - Bidirectional RNN, BiLSTM, BiGRU	
   - https://youtu.be/k2NSm3MNdYg?si=hwkdbNgQu4uF4FR0
 
+---
+
 ## TRANSFORMERS
+![img](pic/transformer.png)
 
 ### Epic History of LLM's
 
